@@ -1,0 +1,5 @@
+name=input("enter your name:")
+roll no=input("enter your roll no:)
+dob=input("enter your dob:")
+course=input("enter your course:")
+print("you entered:"name,roll no,dob,course)
